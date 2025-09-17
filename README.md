@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Emmanuel+Munyite+%F0%9F%91%8B;Full-Stack+Developer+and+Software+Engineer;Building+Innovative+Solutions+from+Nairobi%2C+Kenya" alt="Typing SVG" />
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Derrick+Maebar" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 Building Tomorrow's Web Today</h1>
@@ -7,15 +7,14 @@
 <div align="center">
   
   [![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emunyite)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emunyite)
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/munyite001)
+  [![Twitter](https://x.com/maebar_d_o)
+  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/derrick-maebar)
   
 </div>
 
 ## <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> About Me
 
-I'm a passionate Software Developer from Nairobi, crafting digital solutions that make a difference. With a keen eye for detail and a love for clean code, I transform complex problems into elegant solutions. Currently diving deep into advanced web development and multiplatform mobile development working as a Fullstack Mobile/Web Developer @ Ndai Africa.
+I'm a passionate Software Developer from Nairobi, crafting digital solutions that make a difference. With a keen eye for detail and a love for clean code, I transform complex problems into elegant solutions. Currently diving deep into advanced web development and multiplatform mobile development.
 
 <br/>
 
@@ -50,9 +49,9 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=derrick-maebare&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=munyite001&theme=react" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=derrick-maebar&theme=react" alt="GitHub Streak" width="400">
   
   <br/>
   <br/>
@@ -65,12 +64,12 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <div align="center">
   <p>
-    <strong>📧 Email:</strong> emunyite@gmail.com<br/>
+    <strong>📧 Email:</strong> derrickorori@gmail.com<br/>
     <strong>🌐 Location:</strong> Nairobi, Kenya 🇰🇪<br/>
     <strong>💼 Open to:</strong> Collaborative projects and opportunities
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=munyite001&color=blueviolet" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=derrick-maebar&color=blueviolet" alt="Profile Views">
   </p>
 </div>
