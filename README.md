@@ -49,7 +49,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derrick-maebare&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=derrick-maebar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=derrick-maebar&theme=react" alt="GitHub Streak" width="400">
   
