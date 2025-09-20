@@ -1,75 +1,87 @@
-<div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Derrick+Maebar" alt="Typing SVG" />
-</div>
+# Hi there 👋, I'm Derrick Maebar
 
-<h1 align="center">🚀 Building Tomorrow's Web Today</h1>
+🚀 Passionate about **software development**, **web apps**, and **mobile applications**.  
+💡 I enjoy learning, building real-world projects, and solving problems with code.  
 
-<div align="center">
-  
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@maebar_d_o)
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/derrick-maebar)
-  
-</div>
+---
 
-## <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> About Me
+## 👨‍💻 About Me
+- 🌱 Currently learning **React**, **Node.js**, and **Flutter**
+- 💼 Exploring **Full Stack Development** and **Mobile App Development**
+- 📚 Revising **Database Management Systems (DBMS)** and **Software Engineering**
+- 📧 Reach me at: **derrickorori@gmail.com**
 
-I'm a passionate Software Developer from Nairobi, crafting digital solutions that make a difference. With a keen eye for detail and a love for clean code, I transform complex problems into elegant solutions. Currently diving deep into advanced web development and multiplatform mobile development.
+---
 
-<br/>
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ Technology Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<br/>
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🎯 Current Focus
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🌟 Developing scalable web applications using the MERN stack
-- 🔍 Crafting advanced web scraping solutions with Python & Scrapy
-- 📊 Building interactive dashboards and data visualization tools
-- 🚀 Exploring microservices architecture with Docker
-- 📚 Building multi-platform Mobile Apps using React Native
+---
 
-<br/>
+## 📌 Featured Projects
 
-## 📊 GitHub Analytics
+<a href="https://github.com/derrick-maebar/school-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=school-management-system&theme=tokyonight" />
+</a>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=derrick-maebar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=derrick-maebar&theme=react" alt="GitHub Streak" width="400">
-  
-  <br/>
-  <br/>
- 
-</div>
+<a href="https://github.com/derrick-maebar/ecommerce-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=ecommerce-app&theme=tokyonight" />
+</a>
 
-<br/>
+<a href="https://github.com/derrick-maebar/task-management-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=task-management-app&theme=tokyonight" />
+</a>
 
-## 🤝 Let's Connect!
+---
 
-<div align="center">
-  <p>
-    <strong>📧 Email:</strong> derrickorori@gmail.com<br/>
-    <strong>🌐 Location:</strong> Nairobi, Kenya 🇰🇪<br/>
-    <strong>💼 Open to:</strong> Collaborative projects and opportunities
-  </p>
+## 📊 GitHub Stats
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=derrick-maebar&color=blueviolet" alt="Profile Views">
-  </p>
-</div>
+![derrick-maebar's GitHub stats](https://github-readme-stats.vercel.app/api?username=derrick-maebar&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derrick-maebar&layout=compact&theme=tokyonight)  
+
+---
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=derrick-maebar&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 📈 Activity Graph
+![Derrick's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=derrick-maebar&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+- 📩 **Email:** [derrickorori@gmail.com](mailto:derrickorori@gmail.com)  
+- 💼 **GitHub:** [github.com/derrick-maebar](https://github.com/derrick-maebar)  
+
+---
+
+## 👀 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=derrick-maebar&color=blue&style=flat-square)
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
