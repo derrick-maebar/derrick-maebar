@@ -25,8 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" title="React.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" title="Python" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" title="MongoDB" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" title="MySQL" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
 </p>
 
@@ -34,9 +32,7 @@
 
 ## 🚀 Projects
 <p align="center">
-  <a href="https://github.com/derrick-maebar/Online-Pharmacy-System"><img src="https://img.shields.io/badge/Online-Pharmacy-System-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>
   <a href="https://github.com/derrick-maebar/Portfolio-Website"><img src="https://img.shields.io/badge/Portfolio-Website-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="https://github.com/derrick-maebar/Todo-App"><img src="https://img.shields.io/badge/Todo-App-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 </p>
 
 ---
@@ -55,21 +51,48 @@
 
 ## 🌟 Fun Animated Badges
 <p align="center">
-  <img src="https://img.shields.io/badge/-Joke-00FFCC?style=for-the-badge&logo=github&logoColor=white" title="Why do programmers prefer dark mode?"/>
-  <img src="https://img.shields.io/badge/-Punchline-FF5733?style=for-the-badge&logo=bugatti&logoColor=white" title="Because light attracts bugs!"/>
-  <img src="https://img.shields.io/badge/-Quote-1DA1F2?style=for-the-badge&logo=github&logoColor=white" title="Code is like humor. When you have to explain it, it's bad."/>
-  <img src="https://img.shields.io/badge/-Did+You+Know-FF5733?style=for-the-badge&logo=virus&logoColor=white" title="The first computer virus was created in 1986, called Brain."/>
+  <!-- Random Joke Badge -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=00FFCC&label=Joke&query=%24.joke&url=https%3A%2F%2Fofficial-joke-api.appspot.com%2Fjokes%2Frandom" title="Random Joke"/>
+
+  <!-- Random Quote Badge -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Quote&query=%24.content&url=https%3A%2F%2Fapi.quotable.io%2Frandom" title="Random Quote"/>
+
+  <!-- Did You Know Badge -->
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF5733&label=Did+You+Know&query=%24.text&url=https%3A%2F%2Fuselessfacts.jsph.pl%2Frandom.json?language=en" title="Random Fact"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/derrick-maebar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="hover-bounce"/></a>
-  <a href="https://twitter.com/derrickmaebar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" class="hover-bounce"/></a>
-  <a href="https://derrickmaebar.dev"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" class="hover-bounce"/></a>
+  <a href="https://www.linkedin.com/in/derrick-maebar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="https://twitter.com/derrickmaebar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="https://www.facebook.com/derrick-maebar">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="https://www.instagram.com/derrick-maebar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="https://www.tiktok.com/@derrick-maebar">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="https://www.youtube.com/@derrick-maebar">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="https://www.reddit.com/user/derrick-maebar">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="gemini://derrick-maebar">
+    <img src="https://img.shields.io/badge/Gemini-00FFCC?style=for-the-badge&logo=gemini&logoColor=white" class="hover-bounce"/>
+  </a>
+  <a href="https://derrickmaebar.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white" class="hover-bounce"/>
+  </a>
 </p>
-
 ---
 
 ## 👀 Visitor Counter
