@@ -48,15 +48,73 @@
 
 ---
 
-## 🛠 Skills
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" title="HTML" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" title="CSS" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" title="React.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" title="MySQL" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'"/>
-</p>
+## 🛠 Skills & Proficiency
+
+<div align="center">
+
+  <!-- 🌐 Frontend -->
+  <h3>🌐 Frontend</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React.js"/>
+
+  <!-- Animated Progress Bars -->
+  <div align="left" style="max-width:600px; margin:20px auto;">
+    
+  **HTML5**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=90&color=E34F26&animation=fill" />
+
+  **CSS3**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=85&color=1572B6&animation=fill" />
+
+  **JavaScript**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=80&color=F7DF1E&animation=fill" />
+
+  **React.js**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=75&color=61DAFB&animation=fill" />
+  </div>
+
+  <!-- ⚙️ Backend & Databases -->
+  <h3>⚙️ Backend & Databases</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
+
+  <div align="left" style="max-width:600px; margin:20px auto;">
+
+  **Node.js**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=70&color=339933&animation=fill" />
+
+  **Express.js**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=65&color=000000&animation=fill" />
+
+  **MySQL**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=75&color=4479A1&animation=fill" />
+
+  **MongoDB**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=60&color=47A248&animation=fill" />
+  </div>
+
+  <!-- 📚 Currently Learning -->
+  <h3>📚 Currently Learning</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" title="GraphQL"/>
+
+  <div align="left" style="max-width:600px; margin:20px auto;">
+  **TypeScript**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=40&color=3178C6&animation=fill" />
+
+  **Next.js**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=30&color=000000&animation=fill" />
+
+  **GraphQL**  
+  <img src="https://svg-badge.vercel.app/api/progress?value=25&color=E10098&animation=fill" />
+  </div>
+
+</div>
 
 
 ## 📊 GitHub Stats & Live Dashboard (Auto-Refreshing)
@@ -72,14 +130,14 @@
     </picture>
   </div>
 
-  <!-- Top Languages Card -->
+  <!-- 📊 Top Languages -->
+  <h3>📊 Top Languages</h3>
   <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); background: transparent;">
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=derrick-maebar&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=derrick-maebar&layout=compact&theme=default&hide_border=true&cache_seconds=1800" media="(prefers-color-scheme: light)" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrick-maebar&layout=compact" alt="Top Languages"/>
     </picture>
-  </div>
 
   <!-- Streak Card -->
   <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); background: transparent;">
@@ -102,26 +160,6 @@
 </div>
 
 
-## 🌟 Fun Auto-Updating Carousel Card
-
-<div align="center">
-
-  <div style="display:flex; gap:15px; padding:20px; border-radius:20px; box-shadow:0 6px 16px rgba(0,0,0,0.25); background:rgba(255,255,255,0.05); overflow-x:auto; max-width:100%;">
-
-    <!-- Joke -->
-    <img src="https://img.shields.io/badge/dynamic/json?color=00FFCC&label=Joke&query=%24.joke&url=https%3A%2F%2Fofficial-joke-api.appspot.com%2Fjokes%2Frandom&cacheSeconds=1&style=for-the-badge" alt="Random Joke"/>
-
-    <!-- Quote -->
-    <img src="https://img.shields.io/badge/dynamic/json?color=1DA1F2&label=Quote&query=%24.content&url=https%3A%2F%2Fapi.quotable.io%2Frandom&cacheSeconds=1&style=for-the-badge" alt="Random Quote"/>
-
-    <!-- Fact -->
-    <img src="https://img.shields.io/badge/dynamic/json?color=FF5733&label=Did+You+Know&query=%24.text&url=https%3A%2F%2Fuselessfacts.jsph.pl%2Frandom.json%3Flanguage%3Den&cacheSeconds=1&style=for-the-badge" alt="Random Fact"/>
-
-    <!-- Programming Tip -->
-    <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Dev+Tip&query=%24.en&url=https%3A%2F%2Fprogramming-quotes-api.herokuapp.com%2Fquotes%2Frandom&cacheSeconds=1&style=for-the-badge" alt="Random Programming Tip"/>
-
-  </div>
-</div>
 
 ---
 ## 🌐 Connect with Me
