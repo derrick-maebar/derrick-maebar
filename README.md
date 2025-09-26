@@ -50,69 +50,50 @@
 
 ## 🛠 Skills & Proficiency
 
-<div align="center">
+### 🌐 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
+</p>
 
-  <!-- 🌐 Frontend -->
-  <h3>🌐 Frontend</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React.js"/>
+**Proficiency:**  
+- HTML5: ![90%](https://svg-badge.vercel.app/api/progress?value=90&color=E34F26&animation=fill)  
+- CSS3: ![85%](https://svg-badge.vercel.app/api/progress?value=85&color=1572B6&animation=fill)  
+- JavaScript: ![80%](https://svg-badge.vercel.app/api/progress?value=80&color=F7DF1E&animation=fill)  
+- React.js: ![75%](https://svg-badge.vercel.app/api/progress?value=75&color=61DAFB&animation=fill)  
 
-  <!-- Animated Progress Bars -->
-  <div align="left" style="max-width:600px; margin:20px auto;">
-    
-  **HTML5**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=90&color=E34F26&animation=fill" />
+---
 
-  **CSS3**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=85&color=1572B6&animation=fill" />
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+</p>
 
-  **JavaScript**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=80&color=F7DF1E&animation=fill" />
+**Proficiency:**  
+- Node.js: ![70%](https://svg-badge.vercel.app/api/progress?value=70&color=339933&animation=fill)  
+- Express.js: ![65%](https://svg-badge.vercel.app/api/progress?value=65&color=000000&animation=fill)  
+- MySQL: ![75%](https://svg-badge.vercel.app/api/progress?value=75&color=4479A1&animation=fill)  
+- MongoDB: ![60%](https://svg-badge.vercel.app/api/progress?value=60&color=47A248&animation=fill)  
 
-  **React.js**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=75&color=61DAFB&animation=fill" />
-  </div>
+---
 
-  <!-- ⚙️ Backend & Databases -->
-  <h3>⚙️ Backend & Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
+### 📚 Currently Learning
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL"/>
+</p>
 
-  <div align="left" style="max-width:600px; margin:20px auto;">
+**Proficiency:**  
+- TypeScript: ![40%](https://svg-badge.vercel.app/api/progress?value=40&color=3178C6&animation=fill)  
+- Next.js: ![30%](https://svg-badge.vercel.app/api/progress?value=30&color=000000&animation=fill)  
+- GraphQL: ![25%](https://svg-badge.vercel.app/api/progress?value=25&color=E10098&animation=fill)  
 
-  **Node.js**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=70&color=339933&animation=fill" />
-
-  **Express.js**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=65&color=000000&animation=fill" />
-
-  **MySQL**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=75&color=4479A1&animation=fill" />
-
-  **MongoDB**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=60&color=47A248&animation=fill" />
-  </div>
-
-  <!-- 📚 Currently Learning -->
-  <h3>📚 Currently Learning</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50" title="GraphQL"/>
-
-  <div align="left" style="max-width:600px; margin:20px auto;">
-  **TypeScript**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=40&color=3178C6&animation=fill" />
-
-  **Next.js**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=30&color=000000&animation=fill" />
-
-  **GraphQL**  
-  <img src="https://svg-badge.vercel.app/api/progress?value=25&color=E10098&animation=fill" />
-  </div>
 
 </div>
 
