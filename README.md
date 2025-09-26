@@ -52,10 +52,10 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" onerror="this.src='https://img.shields.io/badge/HTML5-90%25-orange'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" onerror="this.src='https://img.shields.io/badge/CSS3-85%25-blue'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" onerror="this.src='https://img.shields.io/badge/JS-80%25-yellow'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" onerror="this.src='https://img.shields.io/badge/React-75%25-61DAFB'"/>
 </p>
 
 **Proficiency:**  
@@ -68,10 +68,10 @@
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" onerror="this.src='https://img.shields.io/badge/Node.js-70%25-339933'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js" onerror="this.src='https://img.shields.io/badge/Express-65%25-000000'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" onerror="this.src='https://img.shields.io/badge/MySQL-75%25-4479A1'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" onerror="this.src='https://img.shields.io/badge/MongoDB-60%25-47A248'"/>
 </p>
 
 **Proficiency:**  
@@ -84,15 +84,16 @@
 
 ### 📚 Currently Learning
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" onerror="this.src='https://img.shields.io/badge/TypeScript-40%25-3178C6'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" onerror="this.src='https://img.shields.io/badge/Next.js-30%25-000000'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" onerror="this.src='https://img.shields.io/badge/GraphQL-25%25-E10098'"/>
 </p>
 
 **Proficiency:**  
 - TypeScript: ![40%](https://svg-badge.vercel.app/api/progress?value=40&color=3178C6&animation=fill)  
 - Next.js: ![30%](https://svg-badge.vercel.app/api/progress?value=30&color=000000&animation=fill)  
 - GraphQL: ![25%](https://svg-badge.vercel.app/api/progress?value=25&color=E10098&animation=fill)  
+ 
 
 
 </div>
