@@ -67,9 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" onerror="this.src='https://img.shields.io/badge/MongoDB-47A248'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP" onerror="this.src='https://img.shields.io/badge/PHP-777BB4'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" onerror="this.src='https://img.shields.io/badge/Python-3776AB'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" title="Django" onerror="this.src='https://img.shields.io/badge/Django-092E20'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" onerror="this.src='https://img.shields.io/badge/Flask-000000'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" title="Laravel" onerror="this.src='https://img.shields.io/badge/Laravel-FF2D20'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" onerror="this.src='https://img.shields.io/badge/Java-007396'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot" onerror="this.src='https://img.shields.io/badge/Spring-6DB33F'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" onerror="this.src='https://img.shields.io/badge/C-00599C'"/>
@@ -84,6 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" onerror="this.src='https://img.shields.io/badge/Next.js-000000'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" onerror="this.src='https://img.shields.io/badge/GraphQL-E10098'"/>
 </p>
+
 
 
 
