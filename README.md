@@ -47,52 +47,35 @@
 
 
 ---
-
 ## 🛠 Skills & Proficiency
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" onerror="this.src='https://img.shields.io/badge/HTML5-90%25-orange'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" onerror="this.src='https://img.shields.io/badge/CSS3-85%25-blue'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" onerror="this.src='https://img.shields.io/badge/JS-80%25-yellow'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" onerror="this.src='https://img.shields.io/badge/React-75%25-61DAFB'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" onerror="this.src='https://img.shields.io/badge/HTML5-orange'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" onerror="this.src='https://img.shields.io/badge/CSS3-blue'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" onerror="this.src='https://img.shields.io/badge/JS-yellow'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" onerror="this.src='https://img.shields.io/badge/React-61DAFB'"/>
 </p>
-
-**Proficiency:**  
-- HTML5: ![90%](https://svg-badge.vercel.app/api/progress?value=90&color=E34F26&animation=fill)  
-- CSS3: ![85%](https://svg-badge.vercel.app/api/progress?value=85&color=1572B6&animation=fill)  
-- JavaScript: ![80%](https://svg-badge.vercel.app/api/progress?value=80&color=F7DF1E&animation=fill)  
-- React.js: ![75%](https://svg-badge.vercel.app/api/progress?value=75&color=61DAFB&animation=fill)  
 
 ---
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" onerror="this.src='https://img.shields.io/badge/Node.js-70%25-339933'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js" onerror="this.src='https://img.shields.io/badge/Express-65%25-000000'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" onerror="this.src='https://img.shields.io/badge/MySQL-75%25-4479A1'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" onerror="this.src='https://img.shields.io/badge/MongoDB-60%25-47A248'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" onerror="this.src='https://img.shields.io/badge/Node.js-339933'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js" onerror="this.src='https://img.shields.io/badge/Express-000000'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" onerror="this.src='https://img.shields.io/badge/MySQL-4479A1'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" onerror="this.src='https://img.shields.io/badge/MongoDB-47A248'"/>
 </p>
-
-**Proficiency:**  
-- Node.js: ![70%](https://svg-badge.vercel.app/api/progress?value=70&color=339933&animation=fill)  
-- Express.js: ![65%](https://svg-badge.vercel.app/api/progress?value=65&color=000000&animation=fill)  
-- MySQL: ![75%](https://svg-badge.vercel.app/api/progress?value=75&color=4479A1&animation=fill)  
-- MongoDB: ![60%](https://svg-badge.vercel.app/api/progress?value=60&color=47A248&animation=fill)  
 
 ---
 
 ### 📚 Currently Learning
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" onerror="this.src='https://img.shields.io/badge/TypeScript-40%25-3178C6'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" onerror="this.src='https://img.shields.io/badge/Next.js-30%25-000000'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" onerror="this.src='https://img.shields.io/badge/GraphQL-25%25-E10098'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" onerror="this.src='https://img.shields.io/badge/TypeScript-3178C6'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" onerror="this.src='https://img.shields.io/badge/Next.js-000000'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" onerror="this.src='https://img.shields.io/badge/GraphQL-E10098'"/>
 </p>
-
-**Proficiency:**  
-- TypeScript: ![40%](https://svg-badge.vercel.app/api/progress?value=40&color=3178C6&animation=fill)  
-- Next.js: ![30%](https://svg-badge.vercel.app/api/progress?value=30&color=000000&animation=fill)  
-- GraphQL: ![25%](https://svg-badge.vercel.app/api/progress?value=25&color=E10098&animation=fill)  
+ 
  
 
 
