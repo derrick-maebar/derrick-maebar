@@ -51,59 +51,81 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" onerror="this.src='https://img.shields.io/badge/HTML5-orange'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" onerror="this.src='https://img.shields.io/badge/CSS3-blue'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" onerror="this.src='https://img.shields.io/badge/JS-yellow'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js" onerror="this.src='https://img.shields.io/badge/React-61DAFB'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
 </p>
 
 ---
 
 ### ⚙️ Backend & Databases
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" onerror="this.src='https://img.shields.io/badge/Node.js-339933'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js" onerror="this.src='https://img.shields.io/badge/Express-000000'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" onerror="this.src='https://img.shields.io/badge/MySQL-4479A1'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP" onerror="this.src='https://img.shields.io/badge/PHP-777BB4'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" onerror="this.src='https://img.shields.io/badge/C-00599C'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" onerror="this.src='https://img.shields.io/badge/C++-00599C'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
 </p>
 
 ---
 
 ### 🔧 Tools & Platforms
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" onerror="this.src='https://img.shields.io/badge/Git-F05032'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" onerror="this.src='https://img.shields.io/badge/GitHub-181717'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" onerror="this.src='https://img.shields.io/badge/Docker-2496ED'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" onerror="this.src='https://img.shields.io/badge/VS%20Code-007ACC'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" onerror="this.src='https://img.shields.io/badge/Linux-FCC624'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS" onerror="this.src='https://img.shields.io/badge/AWS-232F3E'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase" onerror="this.src='https://img.shields.io/badge/Firebase-FFCA28'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure" onerror="this.src='https://img.shields.io/badge/Azure-0078D4'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure"/>
 </p>
+
+---
+
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://github.com/derrick-maebar/pharmacy-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=pharmacy-management&theme=radical" />
+  </a>
+  <a href="https://github.com/derrick-maebar/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=portfolio-website&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/derrick-maebar/chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=chat-app&theme=radical" />
+  </a>
+  <a href="https://github.com/derrick-maebar/ecommerce-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=ecommerce-platform&theme=radical" />
+  </a>
+</p>
+
+---
+
+### 🔥 Tech Used
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</p>
+
+📌 See more projects on my 👉 [GitHub Repositories](https://github.com/derrick-maebar)
 
 ---
 
 ### 📚 Currently Learning
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" onerror="this.src='https://img.shields.io/badge/TypeScript-3178C6'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" onerror="this.src='https://img.shields.io/badge/Next.js-000000'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" onerror="this.src='https://img.shields.io/badge/GraphQL-E10098'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL"/>
 </p>
-
----
-
-### 🚀 Projects
-Here are some of my featured projects:
-
-- **[Pharmacy Management System](#)** – A full-stack app with Node.js, Express, MySQL, and React.
-- **[Portfolio Website](#)** – A personal portfolio built with HTML, CSS, JS, and React.
-- **[Chat Application](#)** – Real-time messaging app using Node.js, Express, and Socket.io.
-- **[E-commerce Platform](#)** – An online store with PHP, MySQL, and Bootstrap.
-- **[Task Manager API](#)** – REST API with Express.js and JWT authentication.
-
-📌 Check out more projects on my [GitHub Repositories](https://github.com/derrick-maebar).
 
 
 
