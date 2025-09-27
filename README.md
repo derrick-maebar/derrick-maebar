@@ -64,14 +64,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js" onerror="this.src='https://img.shields.io/badge/Node.js-339933'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js" onerror="this.src='https://img.shields.io/badge/Express-000000'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL" onerror="this.src='https://img.shields.io/badge/MySQL-4479A1'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" onerror="this.src='https://img.shields.io/badge/MongoDB-47A248'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP" onerror="this.src='https://img.shields.io/badge/PHP-777BB4'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" onerror="this.src='https://img.shields.io/badge/Python-3776AB'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask" onerror="this.src='https://img.shields.io/badge/Flask-000000'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" onerror="this.src='https://img.shields.io/badge/Java-007396'"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot" onerror="this.src='https://img.shields.io/badge/Spring-6DB33F'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" onerror="this.src='https://img.shields.io/badge/C-00599C'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" onerror="this.src='https://img.shields.io/badge/C++-00599C'"/>
+</p>
+
+---
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" onerror="this.src='https://img.shields.io/badge/Git-F05032'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" onerror="this.src='https://img.shields.io/badge/GitHub-181717'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker" onerror="this.src='https://img.shields.io/badge/Docker-2496ED'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" onerror="this.src='https://img.shields.io/badge/VS%20Code-007ACC'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" onerror="this.src='https://img.shields.io/badge/Linux-FCC624'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS" onerror="this.src='https://img.shields.io/badge/AWS-232F3E'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" title="Firebase" onerror="this.src='https://img.shields.io/badge/Firebase-FFCA28'"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="Azure" onerror="this.src='https://img.shields.io/badge/Azure-0078D4'"/>
 </p>
 
 ---
@@ -82,6 +91,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" onerror="this.src='https://img.shields.io/badge/Next.js-000000'"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL" onerror="this.src='https://img.shields.io/badge/GraphQL-E10098'"/>
 </p>
+
+---
+
+### 🚀 Projects
+Here are some of my featured projects:
+
+- **[Pharmacy Management System](#)** – A full-stack app with Node.js, Express, MySQL, and React.
+- **[Portfolio Website](#)** – A personal portfolio built with HTML, CSS, JS, and React.
+- **[Chat Application](#)** – Real-time messaging app using Node.js, Express, and Socket.io.
+- **[E-commerce Platform](#)** – An online store with PHP, MySQL, and Bootstrap.
+- **[Task Manager API](#)** – REST API with Express.js and JWT authentication.
+
+📌 Check out more projects on my [GitHub Repositories](https://github.com/derrick-maebar).
 
 
 
