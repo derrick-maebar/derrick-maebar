@@ -90,8 +90,8 @@
   <a href="https://github.com/derrick-maebar/pharmacy-management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=pharmacy-management&theme=radical" />
   </a>
-  <a href="https://github.com/derrick-maebar/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=portfolio-website&theme=radical" />
+  <a href="https://derrick-maebar.github.io/portfolio/">
+    <img src="" />
   </a>
 </p>
 
