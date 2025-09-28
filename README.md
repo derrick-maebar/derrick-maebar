@@ -5,6 +5,13 @@
   </a>
 </p>
 
+<!-- Portfolio Button -->
+<p align="center">
+  <a href="https://derrick-maebar.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-00C896?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 ---
 
 ## 💻 About Me
@@ -84,14 +91,14 @@
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
 <p align="center">
   <a href="https://github.com/derrick-maebar/pharmacy-management">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=pharmacy-management&theme=radical" />
   </a>
   <a href="https://derrick-maebar.github.io/portfolio/">
-    <img src="" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=portfolio&theme=radical" />
   </a>
 </p>
 
@@ -103,6 +110,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=derrick-maebar&repo=ecommerce-platform&theme=radical" />
   </a>
 </p>
+
 
 ---
 
